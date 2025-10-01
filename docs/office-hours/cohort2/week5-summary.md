@@ -186,8 +186,3 @@ Follow-up prompts at the end of interactions help maintain momentum. By asking w
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

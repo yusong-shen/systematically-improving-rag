@@ -409,11 +409,6 @@ What really matters isn't the absolute number but whether we can move these metr
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----
 
 ## How would you evaluate the effect of different parsing strategies in RAG, notably on documents with weird layouts, tables, and charts?
 
@@ -3921,4 +3916,3 @@ Found an error or want to suggest improvements to these FAQs? The source files a
 
 ---
 
----

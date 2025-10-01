@@ -251,8 +251,4 @@ Want to learn more about RAG? Take our free email course and get the latest news
 
 **Join thousands of developers who are building better AI applications with our proven methodology.**
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
 _Learn evaluation strategies, user experience design, and architectural patterns that actually work in production._

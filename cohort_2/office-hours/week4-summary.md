@@ -347,8 +347,3 @@ The protocol is still evolving but shows promise for creating more powerful AI s
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

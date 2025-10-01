@@ -267,8 +267,3 @@ OpenBB believes that human plus AI will be better than either human or AI alone.
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

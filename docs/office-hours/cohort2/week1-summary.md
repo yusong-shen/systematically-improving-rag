@@ -354,8 +354,3 @@ What really matters isn't the absolute number but whether we can move these metr
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

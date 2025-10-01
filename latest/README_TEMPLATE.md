@@ -107,8 +107,4 @@ After completing this week's materials, you'll have:
 
 ## **Note**: Ensure you've completed all prerequisites before starting these notebooks. Each notebook builds on previous concepts.
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
 ---

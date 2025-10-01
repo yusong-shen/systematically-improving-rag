@@ -207,8 +207,3 @@ Want to learn more about RAG? Take our free email course and get the latest news
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

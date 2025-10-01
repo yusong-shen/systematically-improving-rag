@@ -182,10 +182,4 @@ Glean's approach is refreshingly pragmatic. They've learned that the path to hig
 The emphasis on company-specific language models is particularly noteworthy - this is an area where many companies struggle when they try to apply generic embedding models to their unique terminology and document structures.
 
 **Key Takeaway:** Successful enterprise search requires a pragmatic approach that combines custom embedding models, unified data architecture, hybrid search techniques, and continuous learning from user feedback rather than relying solely on off-the-shelf solutions.
-
-## --8<--
-
-"snippets/enrollment-button.md"
---8<--
-
 ---

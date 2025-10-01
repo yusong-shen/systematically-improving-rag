@@ -224,8 +224,3 @@ Monitor your system before and after making changes to see if the frequency of r
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

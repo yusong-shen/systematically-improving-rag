@@ -227,8 +227,3 @@ There's a balance between providing specialized tools (read file, search directo
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

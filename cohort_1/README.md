@@ -30,8 +30,3 @@ The `latest/` directory contains:
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

@@ -139,8 +139,4 @@ With this understanding of the data distribution, we can:
 
 ## _This analysis is based on 9,930 conversations loaded from the WildChat-1M dataset with full text preservation._
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
 ---

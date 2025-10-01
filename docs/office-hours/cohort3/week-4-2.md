@@ -129,8 +129,3 @@ Beyond the course, I'm organizing a speaker series with guests from OpenAI's mem
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

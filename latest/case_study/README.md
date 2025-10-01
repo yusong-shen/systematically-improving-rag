@@ -324,8 +324,3 @@ The key insight you'll discover: **In RAG systems, alignment between queries and
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

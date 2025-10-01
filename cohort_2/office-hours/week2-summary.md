@@ -332,8 +332,3 @@ This approach helps ensure reliability across different types of function callin
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----
