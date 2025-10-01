@@ -236,23 +236,3 @@ This course emphasizes:
 ## License
 
 This is educational material for the "Systematically Improving RAG Applications" course.
-
----
-
-## 📧 Free Email Course
-
-Want to learn more about RAG? Take our free email course and get the latest news and information about RAG techniques and best practices.
-
-[**Sign up for the free RAG Crash Course →**](https://fivesixseven.ck.page/rag-crash-course){ .md-button .md-button--primary }
-
----
-
-## 🚀 Ready to Systematically Improve Your RAG Applications?
-
-**Join thousands of developers who are building better AI applications with our proven methodology.**
-
---8<--
-"snippets/enrollment-button.md"
---8<--
-
-_Learn evaluation strategies, user experience design, and architectural patterns that actually work in production._
