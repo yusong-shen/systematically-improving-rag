@@ -483,8 +483,3 @@ This classifier will enable you to automatically categorize incoming queries in 
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

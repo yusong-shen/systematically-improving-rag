@@ -322,8 +322,4 @@ This case study demonstrates key concepts from the workshop series:
 
 ## Remember: The goal isn't perfect recall, but understanding and solving alignment problems systematically.
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
 ---

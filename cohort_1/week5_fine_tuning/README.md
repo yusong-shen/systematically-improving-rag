@@ -10,8 +10,3 @@ The key files in this directory are:
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

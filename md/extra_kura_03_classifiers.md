@@ -1519,8 +1519,3 @@ The key insight from this entire series is that improving RAG systems isn't abou
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

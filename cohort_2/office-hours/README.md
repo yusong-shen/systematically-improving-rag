@@ -129,8 +129,3 @@ The script handles various transcript file formats and naming patterns, includin
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

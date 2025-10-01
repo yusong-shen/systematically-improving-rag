@@ -289,8 +289,3 @@ _This part demonstrates that reranking is a powerful technique for improving ret
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

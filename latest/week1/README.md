@@ -173,8 +173,3 @@ After completing this week's materials, you'll have:
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

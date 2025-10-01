@@ -555,8 +555,3 @@ By replacing vague summaries like "user seeks information about tracking" with p
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

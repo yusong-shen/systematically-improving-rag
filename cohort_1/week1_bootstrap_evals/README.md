@@ -10,8 +10,3 @@ Finally, we calculate metrics on these questions in `metrics.ipynb`. This uses a
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

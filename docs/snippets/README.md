@@ -9,9 +9,6 @@ This directory contains reusable content snippets that can be included in any ma
 Simple enrollment button without additional styling:
 
 ```markdown
---8<--
-"snippets/enrollment-button.md"
---8<--
 ```
 
 ### 2. `enrollment-section.md`

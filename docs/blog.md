@@ -256,8 +256,3 @@ For a deeper dive into these concepts, check out the free 6-week email course on
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

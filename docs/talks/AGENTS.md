@@ -116,8 +116,3 @@ Common tags include: RAG, coding agents, embeddings, evaluation, feedback system
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

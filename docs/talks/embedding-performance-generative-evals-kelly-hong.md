@@ -190,8 +190,3 @@ Contextual chunk rewriting involves adding context to document chunks to improve
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

@@ -60,8 +60,3 @@ topics:
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

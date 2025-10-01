@@ -322,8 +322,3 @@ Agentic RAG involves adding reasoning capabilities to determine what information
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----

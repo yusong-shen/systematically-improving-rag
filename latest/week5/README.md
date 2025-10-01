@@ -179,8 +179,4 @@ After completing this week's materials, you'll have:
 
 ## **Note**: The techniques in this week are essential for production RAG systems. Real-world queries often contain specific constraints that pure semantic search cannot handle, making structured data integration a critical capability.
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
 ---

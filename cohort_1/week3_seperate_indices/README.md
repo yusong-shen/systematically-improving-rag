@@ -4,8 +4,3 @@ It continues the example of a hardware retailer building a system to answer user
 
 ---
 
---8<--
-"snippets/enrollment-button.md"
---8<--
-
----
